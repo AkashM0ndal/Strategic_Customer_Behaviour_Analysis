@@ -8,9 +8,12 @@ Strategic_Customer_Behaviour_Analysis
                                               - Is our loyal customer decresing time by time ? Which steps we have to take for
                                               returning customers.
 -- Create a hypothesis solution to attarct more customers to subscribe and give 
+
+
 ## Overview of the EDA process
 
-
+asdfasdfasf
+rerefaf
 
 
 
