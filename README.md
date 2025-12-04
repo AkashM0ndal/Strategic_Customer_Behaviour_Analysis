@@ -1,4 +1,4 @@
-#### Project Title
+#### **Project Title**
 Strategic_Customer_Behaviour_Analysis 
 
 ## Project Overview
