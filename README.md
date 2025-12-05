@@ -87,8 +87,26 @@ If models are included:
 
 ## 📁 Project Structure
 
+├── data/
+│ └── sales_data.csv
+├── notebooks/
+│ └── Sales_Analysis.ipynb
+├── scripts/
+│ └── data_cleaning.py
+│ └── eda.py
+├── visuals/
+│ └── charts/
+├── README.md
 
+## 📌 Conclusion
 
+The Sales Data Analysis Project provides comprehensive insights into business performance, enabling informed decision-making and strategic planning.
 
+## 👤 Author
+
+Your Name
+GitHub: [https://github.com/your-username](https://github.com/AkashM0ndal)
+
+LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/akash-m0ndal/)
 
 
