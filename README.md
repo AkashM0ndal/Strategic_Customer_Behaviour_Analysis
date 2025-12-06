@@ -8,7 +8,6 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 ## 🎯 Project Objectives
 - Analyze overall sales performance.
 - Identify top-performing products and categories.
-- Study regional sales distribution.
 - Detect seasonal trends.
 - Understand customer purchasing patterns.
 - Provide actionable insights based on data.
@@ -16,9 +15,9 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 ---
 
 ## 📂 Dataset Description
-- **Source:** (Specify data source)
-- **Rows:** (e.g., 10,000 records)
-- **Columns:** (e.g., 15 fields)
+- **Source:** (Kaggle)
+- **Rows:** (e.g., 6,500 records)
+- **Columns:** (e.g., 18 fields)
 - **Key Features:**
   - `Order Date`
   - `Product`
@@ -32,10 +31,11 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 ---
 
 ## 🛠 Tech Stack & Tools Used
+- **Query/Database Language:** SQL
 - **Programming Language:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Libraries:** Pandas  
 - **Environment:** Jupyter Notebook  
-- **Optional Tools:** Power BI / Tableau for dashboarding
+- **Optional Tools:** Power BI for dashboarding
 
 ---
 
@@ -45,16 +45,17 @@ Steps performed:
 - Handled missing values  
 - Converted date formats  
 - Normalized and categorized data  
-- Engineered additional features (e.g., monthly sales, profit margins)
+- Engineered additional features (e.g., monthly sales, profit margins, Monthly subscribers)
 
 ---
 
 ## 🔍 Exploratory Data Analysis (EDA)
 Key areas explored:
 - Sales trends over time  
-- Best/Worst selling products  
+- Best/Worst selling products by category 
 - Regional and category-level performance  
-- Customer segments and buying behavior  
+- Customer segments and buying behavior
+- Analyse subscribers and non-subscribers purchase patterns by category
 - Profitability analysis  
 
 ---
