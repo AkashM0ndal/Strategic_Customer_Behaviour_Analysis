@@ -103,7 +103,7 @@ If models are included:
 
 The Sales Data Analysis Project provides comprehensive insights into business performance, enabling informed decision-making and strategic planning.
 
-## 👤 Author
+## 👤 **Author**
 
 Your Name
 GitHub: [https://github.com/your-username](https://github.com/AkashM0ndal)
