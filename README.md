@@ -35,7 +35,7 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 - **Programming Language:** Python  
 - **Libraries:** Pandas  
 - **Environment:** Jupyter Notebook  
-- **Optional Tools:** Power BI for dashboarding
+- **Optional Tools:** Power BI for visualize the KPIs.
 
 ---
 
