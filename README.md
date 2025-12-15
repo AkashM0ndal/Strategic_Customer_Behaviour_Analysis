@@ -53,7 +53,7 @@ Steps performed:
 Key areas explored:
 - Sales trends over time  
 - Best/Worst selling products by category 
-- Regional and category-level performance  
+- Regional and category-level performance 
 - Customer segments and buying behavior
 - Analyse subscribers and non-subscribers purchase patterns by category
 - Profitability analysis  
