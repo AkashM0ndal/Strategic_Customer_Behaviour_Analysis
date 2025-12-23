@@ -74,15 +74,6 @@ This project includes various visualizations such as:
 - (Example) Sales peak during Q4 due to seasonal demand.
 - (Example) Region A shows consistent growth.
 - (Example) Product Category X contributes highest revenue.
-- (Add your own insights here)
-
----
-
-## 🤖 Predictive Modeling (Optional)
-If models are included:
-- Time-series forecasting (ARIMA/Prophet)
-- Regression model for revenue prediction  
-- Metrics used: RMSE, MAE, R²
 
 ---
 
