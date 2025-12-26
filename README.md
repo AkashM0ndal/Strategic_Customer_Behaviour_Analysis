@@ -17,7 +17,7 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 ## 📂 Dataset Description
 - **Source:** (Kaggle)
 - **Rows:** (e.g., 6,500 records)
-- **Columns:** (e.g., 18 fields)
+- **Columns:** (e.g., 18 fields))
 - **Key Features:**
   - `Order Date`
   - `Product`
