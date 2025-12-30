@@ -1,4 +1,4 @@
-# 📊 Strategic Customer Behaviour Analysis project
+# 📊 Strategic Customer Behaviour Analysis Project
 
 ## 📝 Overview
 This project focuses on analyzing sales data to uncover trends, patterns, and insights that can support data-driven business decisions. The analysis includes data cleaning, exploratory data analysis (EDA), visualizations, and key insights to enhance understanding of sales performance.
