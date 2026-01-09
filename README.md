@@ -9,7 +9,7 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 - Analyze overall sales performance.
 - Identify top-performing products and Category
 - Detect seasonal trends.
-- Understand customer purchasing patterns.
+- Understand customer purchasing patterns
 - Provide actionable insights based on data.
 
 ---
