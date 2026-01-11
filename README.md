@@ -42,6 +42,7 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 
 ---
 
+
 ## 🧹 Data Cleaning & Preprocessing
 Steps performed:
 - Removed duplicate records  
