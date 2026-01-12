@@ -13,11 +13,6 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 -  Provide actionable insights based on data.
 
 
-
-
-
-
-
 ---
 
 ## 📂 Dataset Description
