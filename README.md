@@ -5,6 +5,8 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 
 ---
 
+
+
 ## 🎯 Project Objectives
 - Analyze overall sales performance.
 - Identify top-performing products and Category
