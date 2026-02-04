@@ -11,7 +11,7 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 -  Provide actionable insights based on data.
 
 
-
+fgh
 ## 📂 Dataset Description
 - **Source:** (Kaggle)
 - **Rows:** (e.g., 6,500 records)
