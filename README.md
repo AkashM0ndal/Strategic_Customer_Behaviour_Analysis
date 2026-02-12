@@ -81,9 +81,9 @@ The Sales Data Analysis Project provides comprehensive insights into business pe
 
 ## 👤 **Author**
 
-Name : AKASH MONDAL
-CONTACT NO. : 9083666706
-GitHub: [https://github.com/your-username](https://github.com/AkashM0ndal)
+- Name : AKASH MONDAL
+- CONTACT NO. : 9083666706
+- GitHub: [https://github.com/your-username](https://github.com/AkashM0ndal)
 
 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/akash-m0ndal/)
 
