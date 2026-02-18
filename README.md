@@ -56,7 +56,6 @@ Key areas explored:
 - Analyse subscribers and non-subscribers purchase patterns by category
 - Profitability analysis  
 
----
 
 ## 📊 Visualizations
 This project includes various visualizations such as:
