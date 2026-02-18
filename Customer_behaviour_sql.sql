@@ -64,7 +64,6 @@ WHERE Shipping_Type IN ('Standard','Express')
 GROUP BY Shipping_Type
 ORDER BY AVG(purchase_amount_usd) DESC
 
-
 --  Q5. Do subscribe customers spend more? Compare average spend and total revenue between subscribers and non-subscribers/
 SELECT 
 	Subscription_Status,
@@ -165,6 +164,7 @@ SELECT
 FROM age_contri
 GROUP BY age_group
 ORDER BY SUM(total_revenue) DESC
+
 
 
 
