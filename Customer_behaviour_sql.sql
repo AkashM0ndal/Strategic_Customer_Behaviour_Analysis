@@ -16,6 +16,8 @@ use Project__01
 */
 
 
+
+	
 -- round up the review_rating value
 SELECT TOP 10 * FROM cust_shop_beha
 
@@ -164,6 +166,7 @@ SELECT
 FROM age_contri
 GROUP BY age_group
 ORDER BY SUM(total_revenue) DESC
+
 
 
 
