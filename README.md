@@ -24,8 +24,6 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
   - `Quantity`
   - `Profit`
 
----
-
 
 ## 🛠 Tech Stack & Tools Used
 - **Query/Database Language:** SQL
