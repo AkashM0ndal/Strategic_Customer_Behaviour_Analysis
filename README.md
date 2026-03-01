@@ -9,7 +9,7 @@ This project focuses on analyzing sales data to uncover trends, patterns, and in
 - Detect seasonal trends.
 - Understand customer purchasing patterns.
 -  Provide actionable insights based on data.
-
+''
 
 ## 📂 Dataset Description
 - **Source:** (Kaggle)
