@@ -42,7 +42,7 @@ Steps performed:
 - Normalized and categorized data  
 - Engineered additional features (e.g., monthly sales, profit margins, Monthly subscribers)
 
----
+
 
 ## 🔍 Exploratory Data Analysis (EDA)
 Key areas explored:
