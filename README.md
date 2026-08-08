@@ -3,6 +3,17 @@
 ## 📝 Overview
 This project focuses on analyzing sales data to uncover trends, patterns, and insights that can support data-driven business decisions. The analysis includes data cleaning, exploratory data analysis (EDA), visualizations, and key insights to enhance understanding of sales performance.
 
+
+<img width="1536" height="1024" alt="Customer Data analysis Project" src="https://github.com/user-attachments/assets/f4cc250e-d05e-48e8-a552-22032a43b2c1" />
+
+
+
+
+
+
+
+
+
 ## 🎯 Project Objectives
 - Analyze overall sales performance.
 - Identify top-performing products and Category
